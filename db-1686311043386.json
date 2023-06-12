@@ -1,0 +1,14 @@
+{
+  "usrs": [
+    {
+      "id": "1",
+      "name": "rudra",
+      "email": "rudra@gmail.com",
+      "phone": "7777777777",
+      "pepole": "7",
+      "date": "07/07/2027",
+      "time": "07:07 AM",
+      "describe_event": "THERP's event"
+    }
+  ]
+}

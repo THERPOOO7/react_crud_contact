@@ -1,0 +1,12 @@
+.table_section table tr th{
+    background-color: black;
+    color: white;
+}
+
+.card-title {
+ text-align: center;
+}
+
+.card-body{
+    text-align: center;
+}
